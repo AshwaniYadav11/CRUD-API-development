@@ -3,7 +3,7 @@ Built extensive  RESTful API using Node JS and Express to perform CRUD functions
 ## Tech stack used
 ---
 - Expressjs
-- Node.js
+- Nodejs
 - Mongoose
 - Mongodb
 - JWT
